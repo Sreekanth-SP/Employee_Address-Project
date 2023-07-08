@@ -19,6 +19,7 @@ The Employee-Address project relies on the following dependencies:
 *The client receives the response and displays the data.
 ---
 **<ins>Data Structures: </ins>**
+
 The Employee-Address project uses the following data structures:
 
 * Employee:
